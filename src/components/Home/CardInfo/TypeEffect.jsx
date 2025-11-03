@@ -1,3 +1,4 @@
+// dibuat oleh cey
 import { motion } from "framer-motion"
 
 export default function TypeEffect({ title, text, color, image }) {
