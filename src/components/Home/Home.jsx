@@ -7,7 +7,7 @@ import CardInfo from "./CardInfo/CardInfo";
 export default function Home({ searchTerm, setSearchTerm }) {
   return (
     <div>
-      {/* Input pencarian */}
+      {}
       <Search
         placeholder="Cari hero Mobile Legends..."
         onSearchChange={setSearchTerm}
